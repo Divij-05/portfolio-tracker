@@ -1,0 +1,17 @@
+ticker,shares,cost_basis,sector
+AMZN,10,178.50,Technology
+NVDA,15,95.20,Technology
+MU,5,732.49,Technology
+ASML,5,890.00,Technology
+BA,12,185.30,Industrials
+CAT,8,340.75,Industrials
+JPM,15,205.60,Financials
+V,10,282.40,Financials
+JNJ,18,155.20,Healthcare
+UNH,6,510.80,Healthcare
+XOM,25,112.30,Energy
+PG,20,168.90,Consumer Staples
+KO,40,62.15,Consumer Staples
+HD,7,395.50,Consumer Discretionary
+SPY,5,585.00,Benchmark
+PLTR,25,42.80,Technology
