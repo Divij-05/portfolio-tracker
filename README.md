@@ -4,11 +4,11 @@ An interactive dashboard for analysing an equity portfolio — daily valuation, 
 
 Built as a proof-of-concept ahead of my final year project on data analysis and visualisation.
 
-![Portfolio value over time](screenshots/Value.png)
+![Portfolio vs benchmark](screenshots/benchmark.png)
 
-![Portfolio vs benchmark](screenshots/Benchmark.png)
+![Sector and holding allocation](screenshots/allocation.png)
 
-![Sector and holding allocation](screenshots/Allocation.png)
+![Single stock with moving averages](screenshots/single-stock.png)
 ## Features
 
 - **Portfolio valuation** — daily total value derived from end-of-day price data and current share counts
